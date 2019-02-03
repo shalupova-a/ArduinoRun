@@ -1,5 +1,5 @@
 /**
- * Endless Runner
+ * Endless Runner or "Arduino Run"
  * Date: August 18, 2017
  * Author: Joshua Brooks (http://www.instructables.com/member/joshua.brooks/)
  * Modified by: Shawn Hymel (SparkFun Electronics)
