@@ -3,7 +3,8 @@
  * Date: August 18, 2017
  * Author: Joshua Brooks (http://www.instructables.com/member/joshua.brooks/)
  * Modified by: Shawn Hymel (SparkFun Electronics)
- * 
+ * Edited and enhanced by: Nick Backsai and Angelina Shalupova
+ *
  * Adjust LCD contrast with the potentiometer. Press the button
  * to start the game. During gameplay, press the button to jump
  * and avoid obstacles. Running into an object will result in
